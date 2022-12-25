@@ -1,6 +1,6 @@
 
-### Hi there 👋
-<strong>I am Tamanna<strong/>
+### Hey there 👋
+<strong>I am Tamanna.<strong/>
   
 
 <!--
